@@ -1,0 +1,66 @@
+object Form1: TForm1
+  Left = 710
+  Height = 821
+  Top = 205
+  Width = 1026
+  Caption = 'Steganography Decryptor'
+  ClientHeight = 821
+  ClientWidth = 1026
+  LCLVersion = '2.2.0.4'
+  object originalImage: TImage
+    Left = 176
+    Height = 512
+    Top = 24
+    Width = 632
+    AutoSize = True
+  end
+  object decryptButton: TButton
+    Left = 552
+    Height = 25
+    Top = 552
+    Width = 75
+    Caption = 'DECRYPT'
+    OnClick = decryptButtonClick
+    TabOrder = 0
+  end
+  object loadButton: TButton
+    Left = 320
+    Height = 25
+    Top = 555
+    Width = 75
+    Caption = 'LOAD'
+    OnClick = loadButtonClick
+    TabOrder = 1
+  end
+  object Label1: TLabel
+    Left = 384
+    Height = 15
+    Top = 603
+    Width = 180
+    Caption = 'TEXT DALAM GAMBAR ADALAH : '
+  end
+  object resultText: TLabel
+    AnchorSideLeft.Control = Owner
+    AnchorSideLeft.Side = asrCenter
+    AnchorSideTop.Control = Label1
+    AnchorSideTop.Side = asrBottom
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrCenter
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrCenter
+    Left = 48
+    Height = 143
+    Top = 618
+    Width = 888
+    Alignment = taCenter
+    Anchors = [akTop]
+    AutoSize = False
+    Caption = 'resultText'
+    WordWrap = True
+    OnClick = resultTextClick
+  end
+  object OpenPictureDialog1: TOpenPictureDialog
+    Left = 45
+    Top = 32
+  end
+end

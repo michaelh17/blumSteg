@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="53" Y="11"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="101"/>
+        <CursorPos X="29" Y="119"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Semester 7\Kriptografi\Tugas\TUGAS-PROJECT\PROGRAM\Ecnrypt\main.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="105"/>
+        <CursorPos X="145" Y="118"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\TUGAS-PROJECT\FINAL\encyrpt\main.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="69"/>
+        <CursorPos X="26" Y="78"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\encrypt\main.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="156"/>
+        <CursorPos X="65" Y="197"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="127" Column="11" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="126" Column="11" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="125" Column="11" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="124" Column="11" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="123" Column="11" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="122" Column="11" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="121" Column="11" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="120" Column="11" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="119" Column="11" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="118" Column="11" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="117" Column="11" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="116" Column="11" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="115" Column="11" TopLine="101"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

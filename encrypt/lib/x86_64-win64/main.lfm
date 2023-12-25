@@ -1,0 +1,79 @@
+object Form1: TForm1
+  Left = 9
+  Height = 723
+  Top = 75
+  Width = 1770
+  Caption = 'Steganography Encryptor'
+  ClientHeight = 723
+  ClientWidth = 1770
+  LCLVersion = '2.2.0.4'
+  WindowState = wsFullScreen
+  object originalImage: TImage
+    Left = 64
+    Height = 552
+    Top = 40
+    Width = 656
+    AutoSize = True
+    OnClick = originalImageClick
+  end
+  object resultImage: TImage
+    Left = 1112
+    Height = 552
+    Top = 40
+    Width = 656
+    AutoSize = True
+  end
+  object loadButton: TButton
+    Left = 240
+    Height = 25
+    Top = 617
+    Width = 75
+    Caption = 'LOAD'
+    OnClick = loadButtonClick
+    TabOrder = 0
+  end
+  object saveButton: TButton
+    Left = 1424
+    Height = 25
+    Top = 617
+    Width = 75
+    Caption = 'SAVE'
+    OnClick = saveButtonClick
+    TabOrder = 1
+  end
+  object processButton: TButton
+    Left = 912
+    Height = 25
+    Top = 656
+    Width = 75
+    Caption = 'PROCESS'
+    OnClick = processButtonClick
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 848
+    Height = 15
+    Top = 591
+    Width = 211
+    BidiMode = bdRightToLeft
+    Caption = 'Masukkan kata yang ingin dimasukkan :'
+    ParentBidiMode = False
+  end
+  object typeText: TEdit
+    Left = 880
+    Height = 23
+    Top = 617
+    Width = 141
+    OnChange = typeTextChange
+    ParentShowHint = False
+    TabOrder = 3
+  end
+  object OpenPictureDialog1: TOpenPictureDialog
+    Left = 944
+    Top = 469
+  end
+  object SavePictureDialog1: TSavePictureDialog
+    Left = 944
+    Top = 527
+  end
+end

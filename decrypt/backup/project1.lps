@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="53" Y="11"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="75"/>
+        <CursorPos X="57" Y="89"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Semester 7\Kriptografi\Tugas\TUGAS-PROJECT\PROGRAM\Ecnrypt\main.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="105"/>
+        <CursorPos X="145" Y="118"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\TUGAS-PROJECT\FINAL\encyrpt\main.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="69"/>
+        <CursorPos X="26" Y="78"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\encrypt\main.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="156"/>
+        <CursorPos X="65" Y="197"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
